@@ -1,0 +1,6 @@
+{
+  "name": "Ptf",
+  "description": "A resumable peer-to-peer file transfer system over LAN.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
